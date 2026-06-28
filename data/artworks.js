@@ -4,7 +4,7 @@ const artworks=[
         title:"radhakrishna",
         medium:"pencil-sketch",
         price:2500,
-        image:"http://localhost:5000/paintings/radhakrishna.jpeg",
+        image:"https://amrutha-arts-backend.onrender.com/paintings/radhakrishna.jpeg",
         description:"A handmade pencil sketch of Radha Krishna",
         availability:true
     },
@@ -13,7 +13,7 @@ const artworks=[
         title:"shiva",
         medium:"color-pencil-sketch",
         price:2000,
-        image:"http://localhost:5000/paintings/shiva.jpeg",
+        image:"https://amrutha-arts-backend.onrender.com/paintings/shiva.jpeg",
         description:"A handmade color pencil skecth of Lord Shiva",
         availability:true
     },
@@ -22,7 +22,7 @@ const artworks=[
         title:"kali-mata",
         medium:"pastel-art",
         price:3500,
-        image:"http://localhost:5000/paintings/durgamma.webp",
+        image:"https://amrutha-arts-backend.onrender.com/paintings/durgamma.webp",
         description:"A handmade pastel crayon sketch of kali mata",
         availability:true
     },
@@ -31,7 +31,7 @@ const artworks=[
         title:"nani",
         medium:"poster color painting",
         price:3000,
-        image:"http://localhost:5000/paintings/aayasher.jpeg",
+        image:"https://amrutha-arts-backend.onrender.com/paintings/aayasher.jpeg",
         description:"A handmade poster color sketch of Hero Nani from aayasher",
         availability:true
     },
@@ -40,7 +40,7 @@ const artworks=[
         title:"dog",
         medium:"crayons",
         price:500,
-        image:"http://localhost:5000/paintings/dog.jpeg",
+        image:"https://amrutha-arts-backend.onrender.com/paintings/dog.jpeg",
         description:"A simple crayon sketch of dog ",
         availability:true
     },
@@ -49,7 +49,7 @@ const artworks=[
         title:"girl",
         medium:"pencil-sketch",
         price:1000,
-        image:"http://localhost:5000/paintings/face.jpeg",
+        image:"https://amrutha-arts-backend.onrender.com/paintings/face.jpeg",
         description:"Face of a girl which is bewildered",
         availability:false
     },
@@ -58,7 +58,7 @@ const artworks=[
         title:"ganesha",
         medium:"pastel-art",
         price:2000,
-        image:"http://localhost:5000/paintings/ganapathi.jpeg",
+        image:"https://amrutha-arts-backend.onrender.com/paintings/ganapathi.jpeg",
         description:"A handmade pastel crayon sketch of ganesha",
         availability:false
     },
@@ -67,7 +67,7 @@ const artworks=[
         title:"hanuman",
         medium:"poster color art",
         price:5000,
-        image:"http://localhost:5000/paintings/hanuman.jpeg",
+        image:"https://amrutha-arts-backend.onrender.com/paintings/hanuman.jpeg",
         description:"A handmade poster colors sketch of hanuman",
         availability:false
     },
@@ -76,7 +76,7 @@ const artworks=[
         title:"mother",
         medium:"pencil sketch",
         price:250,
-        image:"http://localhost:5000/paintings/mother.jpeg",
+        image:"https://amrutha-arts-backend.onrender.com/paintings/mother.jpeg",
         description:"A pencil sketch of bonding between mother and baby",
         availability:false
     },
@@ -85,7 +85,7 @@ const artworks=[
         title:"nani",
         medium:"pencil sketch",
         price:700,
-        image:"http://localhost:5000/paintings/nani.jpeg",
+        image:"https://amrutha-arts-backend.onrender.com/paintings/nani.jpeg",
         description:"pencil sketch of nani from jersey",
         availability:true
     },
@@ -94,7 +94,7 @@ const artworks=[
         title:"girl",
         medium:"poster color",
         price:300,
-        image:"http://localhost:5000/paintings/girl.jpeg",
+        image:"https://amrutha-arts-backend.onrender.com/paintings/girl.jpeg",
         description:"simple poster color painting of a girl",
         availability:true
     },
