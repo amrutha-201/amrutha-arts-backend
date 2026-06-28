@@ -7,6 +7,7 @@ mongoose
 .then(async () => {
 console.log("MongoDB Connected");
 await Artwork.deleteMany();
+console.log(artworks[0]);
 await Artwork.insertMany(artworks);
 console.log("Artworks Imported Successfully");
 process.exit();
